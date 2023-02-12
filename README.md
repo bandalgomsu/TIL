@@ -1,30 +1,32 @@
-### TIL
+# TIL
 
-# 스프링
+### 스프링
 ---
   -[IOC] 
     - []()
 ---
 
-# Algorithm
+### Algorithm
 - [정렬](https://github.com/bandalgomsu/TIL/tree/main/Algorithm/문제풀이)
     - 링크 2
 ---
 
-# Java
+### Java
 ---
   -[IOC] 
     - []()
 ---
 
-# DB
+### DB
 ---
   -[IOC] 
     - []()
 ---
 
-# HTTP
+### HTTP
 ---
   -[IOC] 
     - []()
 ---
+
+
