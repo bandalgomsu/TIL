@@ -7,7 +7,7 @@
 ---
 
 ### Algorithm
-- [정렬](https://github.com/bandalgomsu/TIL/tree/main/Algorithm/문제풀이)
+- [Solt](https://github.com/bandalgomsu/TIL/tree/main/Algorithm/문제풀이)
     - 링크 2
 ---
 
